@@ -1,0 +1,10 @@
+﻿Cursor;15;cursor_icon.png;0.1;
+Grandma;100;grandma_icon.png;1;
+Farm;1100;farm_icon.png;8;
+Mine;12000;mine_icon.png;47;
+Factory;130000;factory_icon.png;260;
+Bank;1400000;bank_icon.png;1400;	
+Temple;20000000;temple_icon.png;7800;
+Wizard Tower;330000000;wizard_tower_icon.png;44000;
+Shipment;5100000000;shipment_icon.png;260000;
+Alchemy Lab;75000000000;alchemy_lab_icon.png;1600000;
