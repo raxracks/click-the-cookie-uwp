@@ -1,6 +1,2 @@
-# Cookie Clicker UWP App
-Created this because I was bored, made some slow and bad canvas engine.
-
-This is old because I forgot to push a big update and then reset my pc bruh  
-
-i fleshed out this engine and rewrote it in c++ btw
+# Click the cookie UWP Game
+Created this because I was inspired by similar games, made a custom 2d engine for it.
